@@ -2,7 +2,7 @@
 #### Development and Writing
 ![Development and Writing](https://media.licdn.com/dms/image/D4D16AQFwxxMX32NlKg/profile-displaybackgroundimage-shrink_200_800/0/1710755433231?e=1718841600&v=beta&t=zJ9u7T8bxTcVGsFqFpqrw1wSh3kWpRcJGjNFoX7xClQ)
 
-I'm a computer engineer currently studying and deeply passionate about creating from scratch. My interests lie in web development and game design, where I enjoy bringing ideas to life. I love building everything from small business to personal websites and crafting engaging games using Python, seamlessly integrating them into web design projects.
+I'm a computer engineering student with a strong passion for building projects from scratch. My primary focus is web development, where I enjoy turning ideas into fully functional websites — from personal portfolios to small business platforms. I also explore game development using Unity as a side interest, creating interactive experiences that sometimes complement my web projects. While I work on both fields, my core specialization is in web development.
 
 
 Skills: Python / JS / HTML / CSS /  C#
