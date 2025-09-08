@@ -20,9 +20,9 @@
   <a href="https://www.linkedin.com/in/ebrahim-mohamed-4a13b3224/">
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://facebook.com/Ebrahim Mohamed">
-    <img src="https://img.shields.io/badge/%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+  <a href="https:t.me/Ebrahim_Dev">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 </p>
 
 ## 🛠️ Languages & Tools:
