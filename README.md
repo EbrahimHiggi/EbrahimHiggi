@@ -44,8 +44,12 @@
   <img src="https://streak-stats.demolab.com?user=EbrahimHiggi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🏆 GitHub Trophies:
+## 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=EbrahimHiggi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHiggi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+## 📈 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHiggi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
