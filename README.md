@@ -11,16 +11,16 @@
 ## 📤 Reach Me:
 
 <p align="center">
-  <a href="https://ebrahim-portfolio.vercel.app">
+  <a href="ebrahim-higgi.vercel.app">
     <img src="https://img.shields.io/badge/%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:ebrahim@example.com">
+  <a href="mailto:ebrahimmo@hotmail.com">
     <img src="https://img.shields.io/badge/%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/ebrahim-mohamed/">
+  <a href="https://www.linkedin.com/in/ebrahim-mohamed-4a13b3224/">
     <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.facebook.com/ebrahim.mohamed/">
+  <a href="https://facebook.com/Ebrahim Mohamed">
     <img src="https://img.shields.io/badge/%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
@@ -52,8 +52,4 @@
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHiggi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EbrahimHiggi/EbrahimHiggi/main/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
