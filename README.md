@@ -12,16 +12,16 @@
 
 <p align="center">
   <a href="https://ebrahim-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/🌐%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ebrahim@example.com">
-    <img src="https://img.shields.io/badge/✉️%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/✉%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ebrahim-mohamed/">
-    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/ebrahim.mohamed/">
-    <img src="https://img.shields.io/badge/📘%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 </p>
 
