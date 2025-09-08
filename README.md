@@ -1,4 +1,4 @@
-<p align="center"> # Hi there 👋, I'm Ebrahim Mohamed </p>
+<h1 align="center">Hi there 👋, I'm Ebrahim Mohamed</h1>
 
 **Front-end Developer | Software Engineer**
 
