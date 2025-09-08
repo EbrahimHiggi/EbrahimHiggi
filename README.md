@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ebrahim Mohamed</h1>
 
-<h2 align="center">Front-end Developer | Software Engineer</h2>
+<h2 align="center">Front-end Developer | Web Design | Software Engineer</h2>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -28,7 +28,7 @@
 ## 🛠️ Languages & Tools:
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
