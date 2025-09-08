@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Ebrahim Mohamed</h1>
+<h1 align="center">Hi 👋, I'm Ebrahim Mohamed</h1>
 
-**Front-end Developer | Software Engineer**
+<p align="center"> **Front-end Developer | Software Engineer** </p>
 
 
 ## 🚀 Quick Access
