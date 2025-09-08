@@ -39,3 +39,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60"/>
 </p>
 
+## 🔥 GitHub Streak:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EbrahimHiggi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+## 🏆 GitHub Trophies:
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=EbrahimHiggi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</p>
+
