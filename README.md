@@ -8,15 +8,7 @@
   </a>
 </p>
 
-## 🚀 Quick Access
-<p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Go%20to%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Go%20to%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+🌐 [My Portfolio](#) 
 
 I'm a computer engineering student with a strong passion for building projects from scratch. My primary focus is web development, where I enjoy turning ideas into fully functional websites — from personal portfolios to small business platforms. I also explore game development using Unity as a side interest, creating interactive experiences that sometimes complement my web projects. While I work on both fields, my core specialization is in web development.
 
