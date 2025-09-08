@@ -44,12 +44,16 @@
   <img src="https://streak-stats.demolab.com?user=EbrahimHiggi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+## 📈 Top Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHiggi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
 ## 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=EbrahimHiggi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-## 📈 Top Languages:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EbrahimHiggi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/EbrahimHiggi/EbrahimHiggi/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
